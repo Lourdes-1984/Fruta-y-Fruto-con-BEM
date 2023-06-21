@@ -1,0 +1,22 @@
+.sobre__descripcion{
+    color:  #8C8888;
+    font-family: Roboto, 'Times New Roman', Times, serif;
+    font-weight: 300;
+   
+    text-align: center;
+    width: 93%;
+    /* height: 168px; */
+   
+}
+
+@media screen and (min-width: 0) {
+    .sobre__descripcion{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobre__descripcion{
+        font-size: 1.75rem;
+    }
+}
